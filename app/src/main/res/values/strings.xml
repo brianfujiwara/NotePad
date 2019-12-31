@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="no_file">No JSON Product File Present</string>
+    <string name="file_name">Notes.json</string>
+    <string name="saved">Product Saved!</string>
+    <string name="encoding">UTF-8</string>
+    <string name="not_saved">Product NOT Saved!</string>
+
+</resources>
